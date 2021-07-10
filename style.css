@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    color: white;
+    background: skyblue;
+}
+
+.heading {
+    font-size: 25px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+b {
+    font-size: large;
+}
+
+.span {
+    color: gold;
+}
+
+label {
+    font-size: 15px;
+}
+
+#camera {
+    width: 350px;
+    height: 300px;
+    border: 2px dotted black;
+    margin-top: 10px;
+}
+
+#family_member_name,
+#family_member_accuracy {
+    color: gold;
+}
